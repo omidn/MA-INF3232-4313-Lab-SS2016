@@ -1,0 +1,8 @@
+* Links
+
+** Introduction to SPARQL and Jena http://www.ibm.com/developerworks/xml/library/j-sparql/
+** SPARQL tutorial https://jena.apache.org/tutorials/sparql.html
+** 
+
+* Libs
+** rdf store - an engine to run sparql queries and get results https://github.com/antoniogarrote/rdfstore-js
